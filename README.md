@@ -54,7 +54,7 @@ https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 |---|---:|---:|
 | Interpretable Baseline | 46.16% | 0.4243 |
 | **RETINEXPLAIN** | **56.28%** | **0.4243** |
-| Black-box EfficientNet-B0 | **61.05%** | — |
+| Black-box EfficientNet-B0 | **61.05%** | **58.29** |
 
 RETINEXPLAIN improved raw accuracy from **46.16% to 56.28%** compared with the strongest simple interpretable baseline, while maintaining a comparable Macro F1 score.
 
